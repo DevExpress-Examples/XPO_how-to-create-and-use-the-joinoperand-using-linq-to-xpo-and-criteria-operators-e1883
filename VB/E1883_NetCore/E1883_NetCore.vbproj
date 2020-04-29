@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace></RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\E1883\PersistentClasses.vb" Link="PersistentClasses.vb" />
+    <Compile Include="..\E1883\Program.vb" Link="Program.vb" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="DevExpress.Xpo" Version="19.2.7" />
+  </ItemGroup>
+
+</Project>

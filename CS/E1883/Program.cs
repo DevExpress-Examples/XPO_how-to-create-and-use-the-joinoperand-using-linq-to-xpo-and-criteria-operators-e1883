@@ -46,7 +46,7 @@ namespace E1883 {
                 XPQuery<Person> persons = new XPQuery<Person>(session);
                 var result = from p in persons
                              join pc in persons
-                             on Math.Floor(p.Age / 10.0) * 10 equals Math.Floor(pc.Age / 10.0) * 10                                                               into pg
+                             on Math.Floor(p.Age / 10.0) * 10 equals Math.Floor(pc.Age / 10.0) * 10 into pg
                              where pg.Max(a => a.Age) == p.Age
                              orderby p.Name
                              select p;

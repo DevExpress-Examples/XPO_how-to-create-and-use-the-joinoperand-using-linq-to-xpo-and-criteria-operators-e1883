@@ -1,6 +1,10 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "E1883", "E1883\E1883.vbproj", "{142874BD-5861-4E8F-A318-0E1DBCAE4077}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "E1883_NetCore", "E1883_NetCore\E1883_NetCore.vbproj", "{8618545F-B956-4D80-82D4-CFC17C18BAA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,8 +16,15 @@ Global
 		{142874BD-5861-4E8F-A318-0E1DBCAE4077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{142874BD-5861-4E8F-A318-0E1DBCAE4077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{142874BD-5861-4E8F-A318-0E1DBCAE4077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8618545F-B956-4D80-82D4-CFC17C18BAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8618545F-B956-4D80-82D4-CFC17C18BAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8618545F-B956-4D80-82D4-CFC17C18BAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8618545F-B956-4D80-82D4-CFC17C18BAA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {909743EE-174C-4A97-8171-1FC30339BC80}
 	EndGlobalSection
 EndGlobal

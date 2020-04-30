@@ -1,17 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
-
   <ItemGroup>
     <Compile Include="..\E1883\PersistentClasses.cs" Link="PersistentClasses.cs" />
     <Compile Include="..\E1883\Program.cs" Link="Program.cs" />
   </ItemGroup>
-  
   <ItemGroup>
     <PackageReference Include="DevExpress.Xpo" Version="19.2.7" />
   </ItemGroup>
-
 </Project>

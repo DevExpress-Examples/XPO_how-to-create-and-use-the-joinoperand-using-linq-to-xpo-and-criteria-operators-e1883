@@ -13,6 +13,6 @@
     <Compile Include="..\E1883 - VB\Program.vb" Link="Program.vb" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.Xpo" Version="19.2.7" />
+    <PackageReference Include="DevExpress.Xpo" Version="19.2.9" />
   </ItemGroup>
 </Project>

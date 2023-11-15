@@ -6,8 +6,8 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [PersistentClasses.cs](./CS/E1883/PersistentClasses.cs) (VB: [PersistentClasses.vb](./VB/E1883/PersistentClasses.vb))
-* [Program.cs](./CS/E1883/Program.cs) (VB: [Program.vb](./VB/E1883/Program.vb))
+* [PersistentClasses.cs](./CS/E1883/PersistentClasses.cs) 
+* [Program.cs](./CS/E1883/Program.cs)
 <!-- default file list end -->
 # How to create and use the JoinOperand using LINQ to XPO and Criteria Operators
 

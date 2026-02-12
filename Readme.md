@@ -48,7 +48,7 @@ Where emg.Count() > 10 _
 Select e
 ```
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=XPO_how-to-create-and-use-the-joinoperand-using-linq-to-xpo-and-criteria-operators-e1883&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=XPO_how-to-create-and-use-the-joinoperand-using-linq-to-xpo-and-criteria-operators-e1883&~~~was_helpful=no)
 
